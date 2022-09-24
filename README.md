@@ -1,4 +1,4 @@
-# Python Part 1
+# Python (Part 1)
 
 # **Data Type**
 
@@ -86,7 +86,7 @@ upper()
 - startswith()
 - endswith()
 
-### **Character, and String Transformations**
+### **Character and String Transformations**
 - startswith()
 - endswith()
 
