@@ -118,16 +118,16 @@ There are some implementation about input() code
 ### 1.	Fill
 - The **zfill()** method adds zeros (0) at the beginning of the string, until it reaches the specified length.
 - If the value of the len parameter is less than the length of the string, no filling is done.
-2.	Center align
+### 2.	Center align
 - The **center()** method will center align the string, using a specified character (space is default) as the fill character. 
 - _Syntax_: _string.center(length, character)_.
-3.	Left align
+### 3.	Left align
 - The **ljust()** method will left align the string, using a specified character (space is default) as the fill character.
 - _Syntax_: _string.ljust(length, character)_.
-4.	Right align
+### 4.	Right align
 - The **rjust()** method will right align the string, using a specified character (space is default) as the fill character.
 - _Syntax_: _string.rjust(length, character)_.
-5.	Raw string
+### 5.	Raw string
 - Raw string, when you want to type symbol in string but won't read as function using "r" or (\) if you want insert escape char/symbol.
 
 
