@@ -97,7 +97,7 @@ upper()
 ### **Replacing String Elements**
 - The replace() method replaces a specified phrase with another specified phrase.
 
-# Input Output in Phyton
+# Input - Output in Phyton
 There are some ways to enter variables on the string, such as:
 - Directly merge variables in the print() statement
 - Displaying text(string) can use the format string mechanism
